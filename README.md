@@ -1,6 +1,6 @@
 #**Website Screens**
 ![Page1](https://user-images.githubusercontent.com/72033745/156610897-d79903ab-8b4b-4476-98ea-ba7c16c61d9f.PNG)
-![Page2](https://user-images.githubusercontent.com/72033745/156610908-85d408b9-c472-4c6e-bb1c-d2e00f422095.PNG)
+![Page2](https://user-images.githubusercontent.com/72033745/156611921-6bbccc2c-dd3a-43ab-aebc-13c840f02c21.PNG)
 ![Page3](https://user-images.githubusercontent.com/72033745/156610917-b5dd7076-1169-4a03-9d47-64108e664969.PNG)
 ![Page4](https://user-images.githubusercontent.com/72033745/156610923-f139774a-f546-48da-999a-c984a74cbc52.PNG)
 ![Page5](https://user-images.githubusercontent.com/72033745/156610931-7a9515dd-8433-4d29-8413-7cad767ca804.PNG)
